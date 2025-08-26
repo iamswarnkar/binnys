@@ -53,6 +53,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 The project is organized into the following directories:
 
+```
 src
 ├── components # Reusable UI components (Input, Button, PostItem)
 ├── hooks # Custom hooks for business logic (usePaginatedFetch)
@@ -61,6 +62,7 @@ src
 ├── services # API service for data fetching (apiService)
 ├── types # Global TypeScript type definitions
 └── App.tsx # Main application component
+```
 
 ## Technologies Used
 
